@@ -1,0 +1,11 @@
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения Python
+.venv/
+venv/
+env/
+
+# Локальные настройки PyCharm
+.idea/
